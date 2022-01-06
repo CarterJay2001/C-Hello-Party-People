@@ -1,0 +1,15 @@
+/Users/cayloncarter/Desktop/GitHub/Repos/Csharp-23/HelloWorld/HelloWorld/bin/Debug/net5.0/HelloWorld.deps.json
+/Users/cayloncarter/Desktop/GitHub/Repos/Csharp-23/HelloWorld/HelloWorld/bin/Debug/net5.0/HelloWorld.runtimeconfig.json
+/Users/cayloncarter/Desktop/GitHub/Repos/Csharp-23/HelloWorld/HelloWorld/bin/Debug/net5.0/HelloWorld.runtimeconfig.dev.json
+/Users/cayloncarter/Desktop/GitHub/Repos/Csharp-23/HelloWorld/HelloWorld/bin/Debug/net5.0/HelloWorld.dll
+/Users/cayloncarter/Desktop/GitHub/Repos/Csharp-23/HelloWorld/HelloWorld/bin/Debug/net5.0/ref/HelloWorld.dll
+/Users/cayloncarter/Desktop/GitHub/Repos/Csharp-23/HelloWorld/HelloWorld/bin/Debug/net5.0/HelloWorld.pdb
+/Users/cayloncarter/Desktop/GitHub/Repos/Csharp-23/HelloWorld/HelloWorld/obj/Debug/net5.0/HelloWorld.csproj.AssemblyReference.cache
+/Users/cayloncarter/Desktop/GitHub/Repos/Csharp-23/HelloWorld/HelloWorld/obj/Debug/net5.0/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cayloncarter/Desktop/GitHub/Repos/Csharp-23/HelloWorld/HelloWorld/obj/Debug/net5.0/HelloWorld.AssemblyInfoInputs.cache
+/Users/cayloncarter/Desktop/GitHub/Repos/Csharp-23/HelloWorld/HelloWorld/obj/Debug/net5.0/HelloWorld.AssemblyInfo.cs
+/Users/cayloncarter/Desktop/GitHub/Repos/Csharp-23/HelloWorld/HelloWorld/obj/Debug/net5.0/HelloWorld.csproj.CoreCompileInputs.cache
+/Users/cayloncarter/Desktop/GitHub/Repos/Csharp-23/HelloWorld/HelloWorld/obj/Debug/net5.0/HelloWorld.dll
+/Users/cayloncarter/Desktop/GitHub/Repos/Csharp-23/HelloWorld/HelloWorld/obj/Debug/net5.0/ref/HelloWorld.dll
+/Users/cayloncarter/Desktop/GitHub/Repos/Csharp-23/HelloWorld/HelloWorld/obj/Debug/net5.0/HelloWorld.pdb
+/Users/cayloncarter/Desktop/GitHub/Repos/Csharp-23/HelloWorld/HelloWorld/obj/Debug/net5.0/HelloWorld.genruntimeconfig.cache
